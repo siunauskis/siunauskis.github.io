@@ -5,8 +5,10 @@ title: Hengellisen kasvun lukulista
 
 # Hengellisen kasvun lukulista
 
-Tositarkoituksella pian tulee tänne luettavaa piiiitkään listaan...
+Tämä on julkinen henkilökohtainen lukulistani jolle kokoan linkkejä monenlaisiin hengellistä elämää virkistäviin artikkeleihin ja materiaaleihin.
 
+Materiaaleja on sekä suomen- että englanninkielisenä.
 
-Lisää matskua tänne joo
+Tarkoitus on tarjota näkökulmia siihen millaisia aiheita milloinkin pohdin. Myöskin tämä lista toimii itselleni historiallisena arkistona, josta tärkeät artikkelit jäsennellysti löytyvät.
 
+<a href="lista" type="button">Lista</a>
