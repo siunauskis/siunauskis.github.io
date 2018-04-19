@@ -3,7 +3,7 @@ layout: default
 title: Hengellisen kasvun lukulista
 ---
 
-# Hengellisen kasvun lukulista
+#{:.title} Hengellisen kasvun lukulista
 
 Tämä on julkinen henkilökohtainen lukulistani jolle kokoan linkkejä monenlaisiin hengellistä elämää virkistäviin artikkeleihin ja materiaaleihin.
 
