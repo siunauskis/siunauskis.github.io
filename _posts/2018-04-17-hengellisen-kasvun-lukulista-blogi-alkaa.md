@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Hengellisen kasvun lukulista netissä"
+title: "Hengellisen kasvun lukulistaa kootaan nettiin"
 date: 2018-04-17
 ---
 
-Nyt tämä blogi on vihdoin avattu.
+Kokoan tänne siunaus.net -osoitteeseen listaa sellaisista hengellistä elämää elähdyttävistä ja sykähdyttävistä materiaaleista, joihin aina välillä törmäilee netissä.
 
-Hengellisen kasvun lukulista
+Avasin tähän tarkoitukseen tämän nettiosoitteen.
 
-Powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts.
+Sivusto on hostattuna Githubissa (ilmaiseksi) ja toteutettu Jekyll-generaattorilla.
 
-It actually is a lot easier than I thought it was going to be.
+Pidän myös tätä blogia jossa pohdin monenlaisia listan herättämiä kysymyksiä.
