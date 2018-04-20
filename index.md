@@ -3,7 +3,7 @@ layout: default
 title: Hengellisen kasvun lukulista
 ---
 
-<h1 id="title">Hengellisen kasvun lukulista</h1>
+<h1 class="title">Hengellisen kasvun lukulista</h1>
 
 
 Tämä on julkinen henkilökohtainen lukulistani jolle kokoan linkkejä monenlaisiin hengellistä elämää virkistäviin artikkeleihin ja materiaaleihin.
@@ -16,3 +16,5 @@ Tarkoitus on tarjota näkökulmia siihen millaisia aiheita milloinkin pohdin. My
 
 
 <a href="lista" type="button">Lista</a>
+
+<a href="blog" type="button">Blogi</a>
