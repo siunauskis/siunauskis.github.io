@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Hengellisen kasvun lukulista
+image: 'grapes-1600.jpg'
 ---
 
 <h1 class="title">Hengellisen kasvun lukulista</h1>
