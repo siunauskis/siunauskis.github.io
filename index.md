@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Hengellisen kasvun lukulista
+layout: creative
+title: Siunaus.net
 image: 'grapes-1600.jpg'
 ---
 
